@@ -2,7 +2,7 @@
 Cryptopia Public API Frontend
 
 Cryptopia.co.nz offers both Public and Private API's for accessing their market data.
-CTPAPA (Cryptopia Public API) offers a desktop based interface to the live market info,
+CTPAPI (Cryptopia Public API) offers a desktop based interface to the live market info,
 as well as 7 day market history.
 
 The Code
